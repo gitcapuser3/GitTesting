@@ -1,3 +1,10 @@
 File is created in Branch
+<<<<<<< HEAD
 Added in feature-3 
 Added the line in feature branch
+=======
+
+Added the line in feature branch
+
+Line added in feature-2
+>>>>>>> 8e1c76ae14688df75a404bf2a7cdc8f8ee994ee8
